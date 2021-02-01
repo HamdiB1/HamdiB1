@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/hamdi-bejjar/">
   <img align="left" alt="Aziz's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/hamdi1">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 <a href="https://www.facebook.com/Bejj4r/">
   <img align="left" alt="Aziz's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
