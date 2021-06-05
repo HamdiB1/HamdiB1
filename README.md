@@ -19,7 +19,7 @@ Hi there, I'm **Hamdi Bejjar**, a  **Computer Science Engineering Student and AI
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Deep Reinforcement Learning, Docker and Kubernetes; 
-- 🤔 My interests are with Natural Language Processing, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are with Natural Language Processing, Computer vision.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering Minor : Artificial Intelligence;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hamdi.bejjar@ensi-uma.tn to reach me.
