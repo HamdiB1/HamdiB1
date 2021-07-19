@@ -12,15 +12,14 @@
 <br />
 <br />
 
-Hi there, I'm **Hamdi Bejjar**, a  **Computer Science Engineering Student and AI Engineer to be**     from the National School of Computer Science Tunisia.
+Hi there, I'm **Hamdi Bejjar**, a  **Computer Science Engineering Student ** from the National School of Computer Science Tunisia.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Deep Reinforcement Learning, Docker and Kubernetes; 
+- 🌱 I’m currently learning Stuff ;) ; 
 - 🤔 My interests are with Natural Language Processing, Computer vision.
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering Minor : Artificial Intelligence;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hamdi.bejjar@ensi-uma.tn to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1iTJcGhG78P6OhAKabpRm6gLOZ3Vdg7CG/view?usp=sharing) to get more info.
