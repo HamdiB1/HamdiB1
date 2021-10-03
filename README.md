@@ -22,7 +22,7 @@ Hi there, I'm **Hamdi Bejjar**, a  **Computer Science Engineering Student ** fro
 - 🤔 My interests are with Natural Language Processing, Computer vision.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hamdi.bejjar@ensi-uma.tn to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1iTJcGhG78P6OhAKabpRm6gLOZ3Vdg7CG/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/) to get more info.
 
   
 
